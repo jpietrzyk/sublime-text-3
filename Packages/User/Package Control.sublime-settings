@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"ANSIescape",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"DocBlockr",
+		"GitGutter",
+		"Markdown Preview",
+		"Package Control",
+		"RSpec",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"Theme - Primer"
+	]
+}

@@ -1,0 +1,1583 @@
+{
+	"folder_history":
+	[
+		"/home/jacek/ruby/fyber_challenge2",
+		"/home/jacek/rails/testCloud/testcloud-kernel-vg",
+		"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel",
+		"/home/jacek/ruby/fyber_challenge2/lib",
+		"/home/jacek/js/stork-parse",
+		"/home/jacek/front/testcloud-web",
+		"/home/jacek",
+		"/home/jacek/front",
+		"/home/jacek/ruby/tvdb_api",
+		"/home/jacek/ruby",
+		"/home/jacek/rails/testCloud/testcloud-kernel"
+	],
+	"last_version": 3083,
+	"last_window_id": 106,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"userDe",
+						"userDetailQueries"
+					],
+					[
+						"se",
+						"seconds_to_end"
+					],
+					[
+						"test",
+						"test_case_step_execution"
+					],
+					[
+						"last",
+						"last_response"
+					],
+					[
+						"test_case_executi",
+						"test_case_execution_params"
+					],
+					[
+						"curre",
+						"current_test_case_execution"
+					],
+					[
+						"test_case",
+						"test_case_executions"
+					],
+					[
+						"invi",
+						"invitations"
+					],
+					[
+						"device",
+						"device_configs"
+					],
+					[
+						"devi",
+						"device_configs"
+					],
+					[
+						"scripted",
+						"scripted_test_template"
+					],
+					[
+						"scir",
+						"scripted_test_template"
+					],
+					[
+						"script",
+						"scripted_test_template"
+					],
+					[
+						"sci",
+						"scripted_test_template"
+					],
+					[
+						"organiz",
+						"organization_id"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 358.0,
+				"last_filter": "instal",
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"glue",
+						"Glue - Launch"
+					],
+					[
+						"git",
+						"GitGutter: Compare Against Branch"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					]
+				],
+				"width": 599.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jacek/ruby/fyber_challenge2/lib/workers.rb",
+				"/home/jacek/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/jacek/.config/sublime-text-3/Packages/User/SublimeLinter/primer.light (SL).tmTheme",
+				"/home/jacek/ruby/fyber_challenge2/spec/lib/jobs/package_job_spec.rb",
+				"/home/jacek/ruby/fyber_challenge2/lib/jobs/package_job.rb",
+				"/home/jacek/ruby/fyber_challenge2/Rakefile",
+				"/home/jacek/ruby/fyber_challenge2/lib/workers/refresh_package_worker.rb",
+				"/home/jacek/ruby/fyber_challenge2/application.rb",
+				"/home/jacek/ruby/fyber_challenge2/Gemfile",
+				"/home/jacek/ruby/fyber_challenge2/spec/lib/workers/refresh_page_worker_spec.rb",
+				"/home/jacek/ruby/fyber_challenge2/spec/spec_helper.rb",
+				"/home/jacek/js/stork-parse/cloud/jobs.js.old",
+				"/home/jacek/docs/stork/APP_CONTENT_FINAL__-_Sheet1.csv_-_APP_CONTENT_FINAL__-_Sheet1.csv.csv",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_step_executions/create.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/organizations/test_case_executions.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/test_case.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/organizations/test_case_executions/get.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/test_case_step.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/helpers/test_manager_helper.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/resources/organization_test_case_executions_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/bug_manager/lib/bug_manager/uploaders/bug_uploader.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/entities/test_case_step_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_step_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/test_case_step_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_step_copy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/test_case_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/entities/test_case_step.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/config/settings.yml",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/helpers/test_case_execution_helper.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_executions/extra_time.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/testers/test_case_executions.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/resources/test_case_executions_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_executions/create.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/testers/test_case.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/test.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/jobs/delete_timed_out_test_case_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/db/migrate/20150917111723_add_extra_time_to_test_case_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/organizations/test_results/get.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/models/device_config.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/entities/test_case.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/scripted_test_template.rb",
+				"/home/jacek/docs/stork/ULTIMATE_CONTENT_COLLECTION_-_Sheet1.csv",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/device_config.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_copy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/search/test_case_executions.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/entities/user_device_version.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/db/migrate/20150729083748_create_test_case_executions.rb",
+				"/home/jacek/ruby/fyber_challenge2/lib/tools/tools.rb",
+				"/home/jacek/ruby/fyber_challenge2/lib/helpers.rb",
+				"/home/jacek/ruby/fyber_challenge2/spec/lib/tools/tools_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/search/user_devices.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/Gemfile",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/models/test.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_group.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/config/locales/active_record.en.yml",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/use_cases/test_cases/update.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/resources/test_cases.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/bug_manager/lib/bug_manager/models/bug.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/use_cases/find_devices_for_test.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_step_execution_attachments/create.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_executions/get.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/models/scripted_test_template.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/models/test_template.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/models/user_device_version.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/models/user_test_device.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_step_execution_attachment.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/device_manager/use_cases/find_users_having_devices_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/lib/testcloud/searching/query_builder.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/models/user_device.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/use_cases/find_users_having_devices.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/entities/test_case_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/testers/test_case_step_executions.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/organizations/test_case_executions/list.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/organizations/test_case_step_executions/get.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_step_execution_attachments/delete.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_step_execution_attachments/list.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_step_execution_attachments/show.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_case_manager/models/test_case_execution_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_case_manager/models/test_case_step_execution_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/resources/test_case_step_executions_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/fabricators/test_case_executions.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/fabricators/test_case_step_execution_attachments.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/policies/test_case_step_execution_attachment_policy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/entities/test_case_step_execution_attachment.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/scripted_tests/create.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/tests/create.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/testers/test.rb",
+				"/home/jacek/extend_all_trials.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_group_copy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/models/test_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/policies/test_policy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/resources/test_case_step_execution_attachments_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/uploaders/test_case_uploader.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/policies/test_case_step_execution_policy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/state_machines/tester_invitation_machine.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/bug_manager/lib/bug_manager/policies/bug_attachment_policy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/user_manager/lib/user_manager/policies/organization_policy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/upload_tester_app_nda.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/search_tester_invitations.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_step.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/organizations/test_case_execution_steps/get.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/organizations/test_case_executions/getrb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/api.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/fabricators/tests.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/tests/test_case_executions.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/show_test.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/testers/tests.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/tests.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/log/development.log",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/config/devices/devices.yml",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/use_cases/scripted_tests/create_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/invite_manager/use_cases/invitations/accept_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/entities/user_test_device.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/models/tester_invitation.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/bug_manager/lib/bug_manager/models/bug_device.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/accept_tester_invitation.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/.envrc.example",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/resources/user_devices.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/resources/testers/user_test_devices.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/models/scripted_test_template_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/testers/test_case_step_execution_attachments.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/user_manager/lib/user_manager/models/user.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/resources/test_case_groups.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/entities/test_case_group.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/resources/scripted_test_template_spec.rb",
+				"/home/jacek/Desktop/testcloud/test_case_execution.md"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sendNoti",
+					"notiffication",
+					"passed",
+					"get",
+					"test_case_steps",
+					"max_execution_time",
+					"available_test_cases",
+					"user_is_tester_or_member",
+					"set_ass",
+					"@test",
+					"user",
+					"here is",
+					"tester_invitations",
+					"test_cases",
+					"first",
+					"expires_at",
+					"delet",
+					"TestCaseStepExecutioonAttachment",
+					"user_device",
+					"notify_test_start",
+					"count",
+					"counter",
+					"current_user",
+					"password",
+					"basic",
+					"title",
+					"set_ass",
+					"accept",
+					"current",
+					"apps",
+					"test",
+					"authorize",
+					" DeviceManager::Models::UserDevice.reindex\n\n        device_config = Fabricate.build(:device_config, multiplier: 3, device_phone: true, device_tablet: false, os_version_from: '2014-12-09', test_template: @scripted_test_template, browser_mobile: true)\n        result = device_config.matching_user_ids\n        expect(result).to  be_an_instance_of(Array)\n        expect(result.size).to be > (0)",
+					"sec",
+					"secret",
+					"config.",
+					"user",
+					"organi",
+					"temp",
+					"test_temp",
+					"create_table",
+					"@test."
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"notification",
+					"TestCaseStepExecutionAttachment",
+					"dd",
+					"self."
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 53.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"db/s",
+						"db/schema.rb"
+					],
+					[
+						"db/migrate/device_con",
+						"db/migrate/20150708140140_create_device_configs.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 301.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"userDe",
+						"userDetailQueries"
+					],
+					[
+						"se",
+						"seconds_to_end"
+					],
+					[
+						"test",
+						"test_case_step_execution"
+					],
+					[
+						"last",
+						"last_response"
+					],
+					[
+						"test_case_executi",
+						"test_case_execution_params"
+					],
+					[
+						"curre",
+						"current_test_case_execution"
+					],
+					[
+						"test_case",
+						"test_case_executions"
+					],
+					[
+						"invi",
+						"invitations"
+					],
+					[
+						"device",
+						"device_configs"
+					],
+					[
+						"devi",
+						"device_configs"
+					],
+					[
+						"scripted",
+						"scripted_test_template"
+					],
+					[
+						"scir",
+						"scripted_test_template"
+					],
+					[
+						"script",
+						"scripted_test_template"
+					],
+					[
+						"sci",
+						"scripted_test_template"
+					],
+					[
+						"organiz",
+						"organization_id"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/jacek/ruby/fyber_challenge2/lib/db_config.rb",
+					"settings":
+					{
+						"buffer_size": 585,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jacek/ruby/fyber_challenge2/lib/helpers.rb",
+					"settings":
+					{
+						"buffer_size": 116,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jacek/ruby/fyber_challenge2/spec/lib/helpers/tools_spec.rb",
+					"settings":
+					{
+						"buffer_size": 1795,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jacek/ruby/fyber_challenge2/spec/lib/models/authors_spec.rb",
+					"settings":
+					{
+						"buffer_size": 307,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jacek/ruby/fyber_challenge2/lib/jobs/package_job.rb",
+					"settings":
+					{
+						"buffer_size": 769,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nMarkdown Preview\n----------------\n\n  Sublime Text 2/3 Markdown Preview\n  =================================\n  \n  Preview and build your markdown files quickly in your web browser from sublime text 2/3. \n  \n  You can use builtin [python-markdown][10] parser or use the [github markdown API][5] for the conversion.\n  \n  **NOTE:** If you choose the GitHub API for conversion (set parser: github in your settings), your code will be sent through https to github for live conversion. You'll have [Github flavored markdown][6], syntax highlighting and EMOJI support for free :heart: :octocat: :gift:. If you make more than 60 calls a day, be sure to set your GitHub API key in the settings :). You can also get most of this in the default Markdown parser with by enabling certain extensions; see \"[Parsing Github Flavored Markdown](#parsing-github-flavored-markdown-)\"\" below for more information.\n  \n  **LINUX users:** If you want to use GitHub API for conversion, you'll need to have a custom Python install that includes python-ssl as its not built in the Sublime Text 2 Linux package. see [@dusteye comment][8]. If you use a custom window manager, also be sure to set a `BROWSER` environment variable. see [@PPvG comments][9]\n  \n  ## Features :\n  \n   - Markdown preview using the [Python-markdown][10] or the Github API just choose select the build commands.\n   - Syntax highlighting via Pygments. See \"[Configuring Pygments](#configuring-pygments)\" for more info.\n   - Build markdown file using Sublime Text build system. The build parser are config via the `\"parser\"` config.\n   - Browser preview auto reload on save if you have the [ST2 LiveReload plugin][7] installed.\n   - Builtin parser : supports `abbr`, `attr_list`, `def_list`, `fenced_code`, `footnotes`, `tables`, `smart_strong`, `smarty`,  `wikilinks`, `meta`, `sane_lists`, `codehilite`, `nl2br`, and `toc` markdown extensions.\n   - CSS search path for local and build-in CSS files (always enabled) and/or CSS overriding if you need\n   - YAML support thanks to @tommi\n   - Clipboard selection and copy to clipboard thanks to @hexatrope\n   - MathJax support : \\\\\\\\(\\frac{\\pi}{2}\\\\\\\\) thanks to @bps10\n   - HTML template customisation thanks to @hozaka\n   - Embed images as base64 (see [settings][settings] file for more info)\n   - Strip out multimarkdown critic marks (see [settings][settings] file for more info)\n   - 3rd party extensions for the Python Markdown parser:\n  \n      | Extension | Documentation |\n      |-----------|---------------|\n      | magiclink | Find and convert HTML links and email address to links ([MagicLink Documentation](http://facelessuser.github.io/PyMdown/Extensions/MagicLink.html)). |\n      | delete | Surround inline text with `~~crossed out~~` to get del tags ~~crossed out~~. |\n      | insert | Surround inline text with `^^underlined^^` to get ins tags <ins>underlined</ins>. |\n      | tasklist | Github Flavored Markdown tasklists ([Tasklist Documentation](http://facelessuser.github.io/PyMdown/Extensions/Tasklist.html)). |\n      | githubemoji | Support for Github Flavored Markdown emojis ([GithubEmoji Documentation](http://facelessuser.github.io/PyMdown/Extensions/GithubEmoji.html)). |\n      | headeranchor | Github Flavored Markdown style header anchors ([HeaderAnchor Documentation](http://facelessuser.github.io/PyMdown/Extensions/HeaderAnchor.html)). |\n      | github | A convenience extension to add: `magiclink`, `delete`, `tasklist`, `githubemoji`, `headeranchor`, `superfences`, and `nl2br` to parse and display Markdown in a github-ish way.  It is recommed to pair `github` with `extra` and `codehilite` (with language guessing off) to parse close to github's way.  Be aware of what extensions `github` loads, because you should not load extensions more than once. |\n      | progressbar | Create progress bars ([ProgressBar Documentation](http://facelessuser.github.io/PyMdown/Extensions/ProgressBar.html)). |\n      | superfences | Allow fenced blocks to be nested under lists, blockquotes, etc. and add special UML diagram blocks ([SuperFences Documentation](http://facelessuser.github.io/PyMdown/Extensions/SuperFences.html)). |\n  \n  ## Installation :\n  \n  ### Using [Package Control][3] (*Recommended*)\n  \n  For all Sublime Text 2/3 users we recommend install via [Package Control][3].\n  \n  1. [Install][11] Package Control if you haven't yet.\n  2. Use `cmd+shift+P` then `Package Control: Install Package`\n  3. Look for `Markdown Preview` and install it.\n  \n  ### Manual Install\n  \n  1. Click the `Preferences > Browse Packages…` menu\n  2. Browse up a folder and then into the `Installed Packages/` folder\n  3. Download [zip package][12] rename it to `Markdown Preview.sublime-package` and copy it into the `Installed Packages/` directory\n  4. Restart Sublime Text\n  \n  ## Usage :\n  \n  ### To preview :\n  \n   - optionally select some of your markdown for conversion\n   - use `cmd+shift+P` then `Markdown Preview` to show the follow commands (you will be prompted to select which parser you prefer):\n    - Markdown Preview: Preview in Browser\n    - Markdown Preview: Export HTML in Sublime Text\n    - Markdown Preview: Copy to Clipboard\n    - Markdown Preview: Open Markdown Cheat sheet\n   - or bind some key in your user key binding, using a line like this one:\n     `{ \"keys\": [\"alt+m\"], \"command\": \"markdown_preview\", \"args\": {\"target\": \"browser\", \"parser\":\"markdown\"} },` for a specific parser and target or `{ \"keys\": [\"alt+m\"], \"command\": \"markdown_preview_select\", \"args\": {\"target\": \"browser\"} },` to bring up the quick panel to select enabled parsers for a given target.\n   - once converted a first time, the output HTML will be updated on each file save (with LiveReload plugin)\n  \n  ### To build :\n  \n   - Just use `Ctrl+B` (Windows/Linux) or `cmd+B` (Mac) to build current file.\n  \n  ### To config :\n  \n  Using Sublime Text menu: `Preferences`->`Package Settings`->`Markdown Preview`\n  \n  - `Settings - User` is where you change your settings for Markdown Preview.\n  - `Settings - Default` is a good reference with detailed descriptions for each setting.\n  \n  ### Configuring Pygments\n  If you add the codehilite extension manually in the enabled extensions, you can override some of the default settings.\n  \n  * Turn language guessing *on* or *off* (*on* will highlight fenced blocks even if you don't specify a language)  `codehilite(guess_lang=False)` (True|False).\n  * Show line numbers: `codehilite(linenums=True)` (True|False).\n  * Change the higlight theme: `codehilite(pygments_style=emacs)`.\n  * Inline the CSS: `codehilite(noclasses=True)` (True|False).\n  * Use multiple: `codehilite(linenums=True, pygments_style-emacs)`.\n  \n  See [codehilte page](https://pythonhosted.org/Markdown/extensions/code_hilite.html) for more info.\n  \n  ### Meta Data Support\n  When the `meta` extension is enabled (https://pythonhosted.org/Markdown/extensions/meta_data.html), the results will be written to the HTML head in the form `<meta name=\"key\" content=\"value1,value2\">`.  `title` is the one exception, and its content will be written to the title tag in the HTML head.\n  \n  ### YAML Frontmatter Support\n  YAML frontmatter can be stripped out and read when `strip_yaml_front_matter` is set to  `true` in the settings file.  In general the, the fronmatter is handled the same as [meta data](#meta-data-support), but if both exist in a file, the YAML keys will override the `meta` extension keys.  There are a few special keys names that won't be handled as html meta data.\n  \n  #### Special YAML Key Names\n  Yaml frontmatter has a few special key names that are used that will not be handled as meta data:\n  \n  - **basepath**: An absolute path to configure the relative paths for images etc. (for when the markdown is supposed to reference images in a different location.)\n  - **references**: Can take a file path or an array of file paths for separate markdown files containing references, footnotes, etc.  Can be an absolute path or relative path.  Relative paths first use the source file's directory, and if the file cannot be found, it will use the `basepath` setting.\n  - **destination**: This is an absolute file path or relative file path for when the markdown is saved to html via the build command or the `Save to HTML` command.  Relative paths first use the source file's directory, and if the file cannot be found, it will use the `basepath` setting.\n  - **settings**: This is a dictionary where you can override settings that are in the settings file.\n  \n  #### Example\n  ```yaml\n  ---\n      # Builtin values\n      references:\n          - references.md\n          - abbreviations.md\n          - footnotes.md\n  \n      destination: destination.html\n  \n      # Meta Data\n      title: Test Page\n      author:\n          - John Doe\n          - Jane Doe\n  \n      # Settings overrides\n      settings:\n          enabled_extensions:\n          - extra\n          - github\n          - toc\n          - headerid\n          - smarty(smart_quotes=False) # smart quotes interferes with attr_list\n          - meta\n          - wikilinks\n          - admonition\n          - codehilite(guess_lang=False,pygments_style=github)\n  ---\n  ```\n  \n  ### Parsing Github Flavored Markdown :\n  Github Flavored Mardown (GFM) is a very popular markdown.  Markdown Preview can actually handle them in a couple of ways: online and offline.\n  \n  #### Online :\n  Parsing GFM using the online method requires using the Github API as the parser.  It may also require setting `github_mode` to `gfm` to get things like tasklists to render properly.\n  \n  #### Offline :\n  By default almost all extensions are enabled to help with the github feel, but there are some tweaks needed to get the full experience.\n  \n  GFM does not auto guess language in fenced blocks, but Markdown Preview does this by default.  You can fix this in one of two ways:\n  \n  1. Disable auto language guessing in the settings file `\"guess_language\": false,`\n  2. Or if you are manually defining extensions: `\"enabled_extensions\": [\"codehilite(guess_lang=False,pygments_style=github)\"]`\n  \n  \n  As mentioned earlier, almost all extensions are enabled by default, but as a reference, the minimum extensions that should be enabled are listed below:\n  \n  ```javascript\n    \"enabled_extensions\": [\n      \"extra\",\n      \"github\",\n      \"codehilite(guess_lang=False,pygments_style=github)\"\n    ]\n  ```\n  \n  This may be further enhanced in the future.\n  \n  \n  ## Support :\n  \n  - Any bugs about Markdown Preview please feel free to report [here][issue].\n  - And you are welcome to fork and submit pullrequests.\n  \n  \n  ## License :\n  \n  The code is available at github [project][home] under [MIT licence][4].\n  \n   [home]: https://github.com/revolunet/sublimetext-markdown-preview\n   [3]: https://sublime.wbond.net/\n   [4]: http://revolunet.mit-license.org\n   [5]: http://developer.github.com/v3/markdown\n   [6]: http://github.github.com/github-flavored-markdown/\n   [7]: https://github.com/dz0ny/LiveReload-sublimetext2\n   [8]: https://github.com/revolunet/sublimetext-markdown-preview/issues/27#issuecomment-11772098\n   [9]: https://github.com/revolunet/sublimetext-markdown-preview/issues/78#issuecomment-15644727\n   [10]: https://github.com/waylan/Python-Markdown\n   [11]: https://sublime.wbond.net/installation\n   [12]: https://github.com/revolunet/sublimetext-markdown-preview/archive/master.zip\n   [issue]: https://github.com/revolunet/sublimetext-markdown-preview/issues\n   [settings]: https://github.com/revolunet/sublimetext-markdown-preview/blob/master/MarkdownPreview.sublime-settings\n",
+					"settings":
+					{
+						"buffer_size": 11602,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"contents": "█ [ /home/jacek ] ls -la\ntotal 12668\ndrwx------  41 jacek jacek   20480 Oct  1 13:31 .\ndrwxr-xr-x   4 root  root     4096 Jul  3 17:03 ..\n-rw-------   1 jacek jacek  328632 Aug 11 14:17 01-testrer-dashboard.png\n-rw-------   1 jacek jacek 3003472 Jul  6 11:48 127.0.0.12015070611-07_api_staging\n-rw-rw-r--   1 jacek jacek   16764 Aug 17 13:39 13150750.jpeg\ndrwx------   3 jacek jacek    4096 Jul  6 21:26 .adobe\n-rw-r--r--   1 jacek jacek 3469744 Jul 31 13:32 api_staging_2015-07-31_2.sql\n-rw-------   1 jacek jacek  359734 Jul 31 15:33 api_staging_2015-07-31.sql\n-rw-------   1 jacek jacek  423133 Jul 31 13:39 api_staging_2015-07-31.sql.zip\n-rw-------   1 jacek jacek   41216 Sep 14 16:02 api_staging_2015-09-14.sql\ndrwxrwxr-x   3 jacek jacek    4096 Jul 13 09:37 backup\n-rw-------   1 jacek jacek   51262 Sep 29 16:12 .bash_history\n-rw-r--r--   1 jacek jacek     220 Jul  3 17:03 .bash_logout\n-rw-r--r--   1 jacek jacek    3876 Jul  5 10:20 .bashrc\ndrwxrwxr-x   2 jacek jacek    4096 Aug  7 11:27 .bundle\ndrwx------  21 jacek jacek    4096 Sep 14 14:39 .cache\ndrwx------   3 jacek jacek    4096 Jul  5 20:16 .compiz\ndrwx------  25 jacek jacek    4096 Sep 28 12:15 .config\ndrwx------   3 root  root     4096 Jul  8 10:14 .dbus\ndrwxr-xr-x   3 jacek jacek    4096 Sep 14 09:17 Desktop\ndrwxrwxr-x   3 jacek jacek    4096 Sep 17 12:11 docs\ndrwxr-xr-x   2 jacek jacek    4096 Jul  3 17:06 Documents\ndrwxr-xr-x   3 jacek jacek    4096 Oct  1 13:44 Downloads\nlrwxrwxrwx   1 jacek jacek      31 Jul  3 17:03 .ecryptfs -> /home/.ecryptfs/jacek/.ecryptfs\n-rw-r--r--   1 jacek jacek    8980 Jul  3 17:03 examples.desktop\n-rw-------   1 jacek jacek     329 Jul 30 11:31 extend_all_trials.rb\ndrwxrwxr-x   3 jacek jacek    4096 Jul 27 11:00 front\ndrwx------   4 jacek jacek    4096 Oct  1 08:31 .gconf\ndrwxrwxr-x   3 jacek jacek    4096 Jul  5 10:28 .gem\n-rw-rw-r--   1 jacek jacek      23 Jul  5 10:27 .gemrc\n-rw-rw-r--   1 jacek jacek      85 Jul  5 10:30 .gitconfig\n-rw-------   1 jacek jacek      50 Aug 26 12:52 .guard_history\ndrwx------   2 root  root     4096 Jul  8 10:15 .gvfs\n-rw-------   1 jacek jacek   21358 Oct  1 08:31 .ICEauthority\n-rw-------   1 jacek jacek    1766 Jul  5 10:31 jacek_pietrzyk_outlook\n-rw-r--r--   1 jacek jacek     407 Jul  5 10:31 jacek_pietrzyk_outlook.pub\ndrwxrwxr-x   4 jacek jacek    4096 Aug 28 12:11 js\n-rw-------   1 jacek jacek      35 Jul  6 12:05 .lesshst\ndrwx------   3 jacek jacek    4096 Jul  3 17:06 .local\ndrwx------   3 jacek jacek    4096 Jul  6 21:26 .macromedia\ndrwx------   4 jacek jacek    4096 Jul  3 17:15 .mozilla\ndrwxr-xr-x   2 jacek jacek    4096 Jul  3 17:06 Music\ndrwx------   3 jacek jacek    4096 Jul 28 14:59 .mysql\n-rw-------   1 jacek jacek     127 Aug  6 12:34 .mysql_history\ndrwxrwxr-x 490 jacek jacek  118784 Aug 28 12:12 .npm\n-rw-rw-rw-   1 jacek jacek     282 Jul 13 12:31 o_sobie.md\ndrwxr-xr-x   2 jacek jacek    4096 Aug 28 14:05 .parse\ndrwxr-xr-x   2 jacek jacek    4096 Jul  3 17:06 Pictures\nlrwxrwxrwx   1 jacek jacek      30 Jul  3 17:03 .Private -> /home/.ecryptfs/jacek/.Private\n-rw-r--r--   1 jacek jacek     675 Jul  3 17:03 .profile\n-rw-------   1 jacek jacek   23632 Sep 29 14:09 .pry_history\ndrwxr-xr-x   2 jacek jacek    4096 Jul  3 17:06 Public\ndrwxrwxr-x   3 jacek jacek    4096 Jul  6 00:03 rails\ndrwxrwxr-x  12 jacek jacek    4096 Jul  5 10:27 .rbenv\ndrwxrwxr-x   4 jacek jacek    4096 Sep 14 09:27 ruby\ndrwx------   6 jacek jacek    4096 Oct  1 14:17 .Skype\ndrwx------   2 jacek jacek    4096 Jul  5 10:56 .ssh\n-rw-r--r--   1 jacek jacek       0 Jul  3 18:26 .sudo_as_admin_successful\ndrwxr-xr-x   2 jacek jacek    4096 Jul  3 17:06 Templates\n-rw-------   1 jacek jacek  586136 Jul 21 14:30 Testcase_Details.zip\n-rw-------   1 jacek jacek 1110598 Jul  6 14:19 testcase_images.zip\n-rw-------   1 jacek jacek    1657 Jul  7 14:26 test_case_tickets.md\ndrwxrwxr-x   2 jacek jacek    4096 Jul 17 15:25 testcloud_testcase_details\n-rw-------   1 jacek jacek  734935 Jul 20 10:58 testcloud_testcase_details.zip\n-rw-------   1 jacek jacek  244588 Jul 28 15:46 Tester_Submitbug_Ready.png\n-rw-------   1 jacek jacek  229034 Jul 28 15:46 Tester_TestcaseTest_1_selectTestcase.png\n-rw-------   1 jacek jacek  371095 Jul 28 15:46 Tester_TestcaseTest_2_selectDevice.png\n-rw-------   1 jacek jacek  219145 Jul 28 15:46 Tester_TestcaseTest_3_failed.png\n-rw-------   1 jacek jacek  244926 Jul 28 15:46 Tester_TestcaseTest_3_passed_answer.png\n-rw-------   1 jacek jacek  216653 Jul 28 15:46 Tester_TestcaseTest_3_passed.png\n-rw-------   1 jacek jacek  218595 Jul 28 15:46 Tester_TestcaseTest_3.png\n-rw-------   1 jacek jacek  246098 Jul 28 15:46 Tester_TestcaseTest_Setup.png\ndrwx------   4 jacek jacek    4096 Jul  6 11:41 .thunderbird\ndrwxrwxr-x   3 jacek jacek    4096 Aug 28 14:59 tmp\ndrwxrwxr-x   7 jacek jacek    4096 Aug 17 11:20 .vagrant.d\ndrwxr-xr-x   2 jacek jacek    4096 Jul  3 17:06 Videos\ndrwxrwxrwx   7 jacek jacek    4096 Aug 20 13:41 .vim\n-rw-------   1 jacek jacek   11738 Oct  1 13:31 .viminfo\ndrwxrwxr-x   8 jacek jacek    4096 Aug 20 12:59 VimKata\n-rw-rw-r--   1 jacek jacek     134 Aug 26 12:21 .vimrc\ndrwx------   3 jacek jacek    4096 Jul 13 09:37 VirtualBox VMs\n-rw-------   1 jacek jacek      62 Oct  1 08:31 .Xauthority\n-rw-rw-r--   1 jacek jacek     131 Jul  3 17:07 .xinputrc\n-rw-------   1 jacek jacek     354 Oct  1 08:31 .xsession-errors\n-rw-------   1 jacek jacek    1568 Sep 29 16:12 .xsession-errors.old\n\n█ [ /home/jacek ] bundle exec rake\nCould not locate Gemfile or .bundle/ directory\n\n█ [ /home/jacek ] pwd\n/home/jacek\n\n█ [ /home/jacek ] cd ruby/fyber_challange2\nDirectory path 'ruby/fyber_challange2' does not exist\n\n█ [ /home/jacek ] pwd\n/home/jacek\n\n█ [ /home/jacek ] cd .\n/home/jacek\n\n█ [ /home/jacek/ruby ] cd ruby\n/home/jacek/ruby\n\n█ [ /home/jacek/ruby ] cd fyber_challange2\nDirectory path 'fyber_challange2' does not exist\n\n█ [ /home/jacek/ruby/fyber_challenge2 ] cd fyber_challenge2\n/home/jacek/ruby/fyber_challenge2\n\n█ [ /home/jacek/ruby/fyber_challenge2 ] bundle exec rspec spec/\n.................F\n\nFailures:\n\n  1) RefreshPackageWorker scheduling will be scheduled daily\n     Failure/Error: expect( next_occurrence ).to eq(valid)\n       \n       expected: 2015-10-02 12:00:00.000000000 +0200\n            got: 2015-10-01 12:00:00 +0200\n       \n       (compared using ==)\n       \n       Diff:\n       @@ -1,2 +1,2 @@\n       -2015-10-02 12:00:00 +0200\n       +2015-10-01 12:00:00 +0200\n     # ./spec/lib/workers/refresh_page_worker_spec.rb:19:in `block (3 levels) in <top (required)>'\n\nFinished in 2.6 seconds (files took 1.11 seconds to load)\n18 examples, 1 failure\n\nFailed examples:\n\nrspec ./spec/lib/workers/refresh_page_worker_spec.rb:6 # RefreshPackageWorker scheduling will be scheduled daily\n\n\n",
+					"settings":
+					{
+						"buffer_size": 6705,
+						"line_ending": "Unix",
+						"name": "terminal.glue"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 398.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"rspe",
+						"SublimeLinter: Previous Error"
+					],
+					[
+						"glue",
+						"Glue - Launch"
+					],
+					[
+						"instal",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"git",
+						"GitGutter: Compare Against Branch"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					]
+				],
+				"width": 599.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/jacek/ruby/fyber_challenge2",
+				"/home/jacek/ruby/fyber_challenge2/lib/jobs",
+				"/home/jacek/ruby/fyber_challenge2/lib/workers",
+				"/home/jacek/ruby/fyber_challenge2/spec",
+				"/home/jacek/ruby/fyber_challenge2/spec/lib",
+				"/home/jacek/ruby/fyber_challenge2/spec/lib/helpers"
+			],
+			"file_history":
+			[
+				"/home/jacek/ruby/fyber_challenge2/lib/workers.rb",
+				"/home/jacek/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/jacek/.config/sublime-text-3/Packages/User/SublimeLinter/primer.light (SL).tmTheme",
+				"/home/jacek/ruby/fyber_challenge2/spec/lib/jobs/package_job_spec.rb",
+				"/home/jacek/ruby/fyber_challenge2/lib/jobs/package_job.rb",
+				"/home/jacek/ruby/fyber_challenge2/Rakefile",
+				"/home/jacek/ruby/fyber_challenge2/lib/workers/refresh_package_worker.rb",
+				"/home/jacek/ruby/fyber_challenge2/application.rb",
+				"/home/jacek/ruby/fyber_challenge2/Gemfile",
+				"/home/jacek/ruby/fyber_challenge2/spec/lib/workers/refresh_page_worker_spec.rb",
+				"/home/jacek/ruby/fyber_challenge2/spec/spec_helper.rb",
+				"/home/jacek/js/stork-parse/cloud/jobs.js.old",
+				"/home/jacek/docs/stork/APP_CONTENT_FINAL__-_Sheet1.csv_-_APP_CONTENT_FINAL__-_Sheet1.csv.csv",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_step_executions/create.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/organizations/test_case_executions.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/test_case.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/organizations/test_case_executions/get.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/test_case_step.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/helpers/test_manager_helper.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/resources/organization_test_case_executions_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/bug_manager/lib/bug_manager/uploaders/bug_uploader.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/entities/test_case_step_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_step_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/test_case_step_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_step_copy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/test_case_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/entities/test_case_step.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/config/settings.yml",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/helpers/test_case_execution_helper.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_executions/extra_time.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/testers/test_case_executions.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/resources/test_case_executions_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_executions/create.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/testers/test_case.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/test.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/jobs/delete_timed_out_test_case_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/db/migrate/20150917111723_add_extra_time_to_test_case_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/organizations/test_results/get.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/models/device_config.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/entities/test_case.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/scripted_test_template.rb",
+				"/home/jacek/docs/stork/ULTIMATE_CONTENT_COLLECTION_-_Sheet1.csv",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/device_config.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_copy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/search/test_case_executions.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/entities/user_device_version.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/db/migrate/20150729083748_create_test_case_executions.rb",
+				"/home/jacek/ruby/fyber_challenge2/lib/tools/tools.rb",
+				"/home/jacek/ruby/fyber_challenge2/lib/helpers.rb",
+				"/home/jacek/ruby/fyber_challenge2/spec/lib/tools/tools_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/search/user_devices.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/Gemfile",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/models/test.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_group.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/config/locales/active_record.en.yml",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/use_cases/test_cases/update.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/resources/test_cases.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/bug_manager/lib/bug_manager/models/bug.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/use_cases/find_devices_for_test.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_step_execution_attachments/create.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_executions/get.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/models/scripted_test_template.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/models/test_template.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/models/user_device_version.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/models/user_test_device.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_step_execution_attachment.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/device_manager/use_cases/find_users_having_devices_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/lib/testcloud/searching/query_builder.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/models/user_device.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/use_cases/find_users_having_devices.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/entities/test_case_execution.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/testers/test_case_step_executions.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/organizations/test_case_executions/list.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/organizations/test_case_step_executions/get.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_step_execution_attachments/delete.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_step_execution_attachments/list.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/test_case_step_execution_attachments/show.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_case_manager/models/test_case_execution_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_case_manager/models/test_case_step_execution_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/resources/test_case_step_executions_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/fabricators/test_case_executions.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/fabricators/test_case_step_execution_attachments.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/policies/test_case_step_execution_attachment_policy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/entities/test_case_step_execution_attachment.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/scripted_tests/create.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/tests/create.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/entities/testers/test.rb",
+				"/home/jacek/extend_all_trials.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_group_copy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/models/test_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/policies/test_policy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/resources/test_case_step_execution_attachments_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/uploaders/test_case_uploader.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/policies/test_case_step_execution_policy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/state_machines/tester_invitation_machine.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/bug_manager/lib/bug_manager/policies/bug_attachment_policy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/user_manager/lib/user_manager/policies/organization_policy.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/upload_tester_app_nda.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/search_tester_invitations.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/models/test_case_step.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/organizations/test_case_execution_steps/get.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/organizations/test_case_executions/getrb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/api.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/fabricators/tests.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/tests/test_case_executions.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/show_test.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/testers/tests.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/tests.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/log/development.log",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/config/devices/devices.yml",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/use_cases/scripted_tests/create_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/invite_manager/use_cases/invitations/accept_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/entities/user_test_device.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/models/tester_invitation.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/bug_manager/lib/bug_manager/models/bug_device.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/use_cases/testers/accept_tester_invitation.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/.envrc.example",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/resources/user_devices.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/device_manager/lib/device_manager/resources/testers/user_test_devices.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/models/scripted_test_template_spec.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_manager/lib/test_manager/resources/testers/test_case_step_execution_attachments.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/user_manager/lib/user_manager/models/user.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/resources/test_case_groups.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/components/test_case_manager/lib/test_case_manager/entities/test_case_group.rb",
+				"/home/jacek/rails/testCloud/testcloud-kernel-vg/testcloud-kernel/spec/components/test_manager/resources/scripted_test_template_spec.rb",
+				"/home/jacek/Desktop/testcloud/test_case_execution.md"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sendNoti",
+					"notiffication",
+					"passed",
+					"get",
+					"test_case_steps",
+					"max_execution_time",
+					"available_test_cases",
+					"user_is_tester_or_member",
+					"set_ass",
+					"@test",
+					"user",
+					"here is",
+					"tester_invitations",
+					"test_cases",
+					"first",
+					"expires_at",
+					"delet",
+					"TestCaseStepExecutioonAttachment",
+					"user_device",
+					"notify_test_start",
+					"count",
+					"counter",
+					"current_user",
+					"password",
+					"basic",
+					"title",
+					"set_ass",
+					"accept",
+					"current",
+					"apps",
+					"test",
+					"authorize",
+					" DeviceManager::Models::UserDevice.reindex\n\n        device_config = Fabricate.build(:device_config, multiplier: 3, device_phone: true, device_tablet: false, os_version_from: '2014-12-09', test_template: @scripted_test_template, browser_mobile: true)\n        result = device_config.matching_user_ids\n        expect(result).to  be_an_instance_of(Array)\n        expect(result.size).to be > (0)",
+					"sec",
+					"secret",
+					"config.",
+					"user",
+					"organi",
+					"temp",
+					"test_temp",
+					"create_table",
+					"@test."
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"notification",
+					"TestCaseStepExecutionAttachment",
+					"dd",
+					"self."
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/jacek/ruby/fyber_challenge2/lib/db_config.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 585,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										256,
+										256
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/jacek/ruby/fyber_challenge2/lib/helpers.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 116,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										116,
+										116
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/jacek/ruby/fyber_challenge2/spec/lib/helpers/tools_spec.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1795,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1479,
+										1479
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/RSpec/RSpec.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 369.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/jacek/ruby/fyber_challenge2/spec/lib/models/authors_spec.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 307,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										307,
+										307
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/RSpec/RSpec.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/jacek/ruby/fyber_challenge2/lib/jobs/package_job.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 769,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										310,
+										310
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11602,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1149,
+										1149
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_indent": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"parser": "github",
+									"syntax": "Packages/Markdown/Markdown.tmLanguage",
+									"tab_width": 2,
+									"target": "browser",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6705,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6006,
+										6006
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2456.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 53.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,-28,1,-27,3286,1080",
+			"project": "fyber-challenge2",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"spec",
+						"spec/lib/models/authors_spec.rb"
+					],
+					[
+						"db/s",
+						"db/schema.rb"
+					],
+					[
+						"db/migrate/device_con",
+						"db/migrate/20150708140140_create_device_configs.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 301.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 99,
+			"workspace_name": "/home/jacek/sublime-projects/fyber-challenge2.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/jacek/sublime-projects/fyber-challenge2.sublime-workspace"
+		]
+	}
+}

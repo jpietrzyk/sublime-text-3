@@ -1,6 +1,6 @@
 # SublimeText 3 config
 Configuration files for sublime text 3 editor.
-## User packages
+## Packages
 - AdvancedNewFile
 - All Autocomplete
 - GitCutter

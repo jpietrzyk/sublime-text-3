@@ -1,2 +1,12 @@
-# sublime-text-3
-Sublime Text 3 config.
+# SublimeText 3 config
+Configuration files for sublime text 3 editor.
+## User packages
+- AdvancedNewFile
+- All Autocomplete
+- GitCutter
+- Markdown Preview
+- RSpec
+- SublimeLinter
+- SublimeLinter-rubocop
+- SublimeLinter-ruby
+- Theme - Primer
